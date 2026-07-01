@@ -26,11 +26,11 @@ This project focuses on implementing text summarization using Natural Language P
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/TilakSanghvi/Text_Summarization.git
+    git clone https://github.com/SukritRana8067/Text-Summarisation.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Text_Summarization
+    cd Text-Summarisation
     ```
 3. Install the required dependencies:
     ```bash
